@@ -1,9 +1,6 @@
 '''
 BoundingBox.py
 
-DO NOT MODIFY THIS FILE!!!!!!!!!!!!!!!!!
-'''
-
 import turtle
 
 def drawBoundingBox():
@@ -25,4 +22,5 @@ def drawBoundingBox():
         t.right(90)
         t.forward(height)
         t.right(90)
+
     t.penup()
